@@ -1,7 +1,11 @@
 Large files should be excluded from the repository.
 I think this will do it? 
 
+<<<<<<< HEAD
 find -type f -size +40M > ./.gitignore
+=======
+find -type f -size +40M > ./.gitginore
+>>>>>>> 4139e3730b6145360d6e607086878c18b730500a
 
 Large files have been removed from this repository
 
