@@ -6,9 +6,11 @@ shopt -s extglob
 
 find -type f -size +40M > ./.gitignore
 
+echo "*~" >>  ./.gitignore
+
 echo "THE FOLLOWING LARGE FILES ARE NOT TRACKED"
 cat ./.gitignore
-echo "THESE FILES ARE TOO LARGE AND ARE NOT TRACKED"
+echo "THESE FILES ARE NOT TRACKED"
 
 #git add -A
 
