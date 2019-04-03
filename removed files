@@ -1,0 +1,49 @@
+Large files have been removed from this repository
+
+find -type f -size +40M
+
+./Wave/8-fold wave-based/quasi8-v9.xcf.png
+./Wave/8-fold wave-based/quasi8-v9.xcf
+./Wave/5-fold wave-based/quasi-5-anisotropic-edge-traced.xcf
+./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow.xcf
+./Wave/6-fold wave-based/editing/quasi-6-anisotropic-colored-2-noised.xcf.png
+./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow_v2.xcf
+./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow_v2.xcf.png
+./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow.xcf.png
+./Wave/6-fold wave-based/editing/Test0-6-lattice-B.xcf
+./Wave/6-fold wave-based/editing/quasi-6-anisotropic-colored-2-noised.xcf
+./Rhomboid/unfinished/8-fold bisected (incomplete)/q8_giant_bisect_larger_fine.xcf
+./Rhomboid/completed/8-fold subdivided rhomboid (the universe)/editing/index_8fold_edges_coloring_B5_symm.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1.xcf.png
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4b.xcf.png
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines_greyedout_dilated.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines.xcf.png
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4b.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines_greyedout.xcf.png
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate6.xcf.png
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines_greyedout.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate5.xcf.png
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate6.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate5.xcf
+./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4.xcf.png
+./miscellaneous/for printing/mandalas.pdf
+./Moasic/completed/9-fold mosaic (peacock)/p9-sine-v5.xcf
+./Moasic/completed/12-fold mosaic (unpleasant colors)/q12-3-symm-color-B-RGB.xcf
+./Moasic/completed/10-fold mosaic (Tawuse Melek)/q10-6-peacock-symmetrize-2.xcf
+./Moasic/completed/10-fold mosaic (Tawuse Melek)/q10-6-peacock-symmetrize-2-fuzz.xcf
+./Moasic/completed/8-fold mosaic (low-res, not good)/editing/quasi8-v9.png
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v5-mandala-v2.xcf
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v5-mandala-printme.png
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v3.xcf
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v5-mandala.xcf
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v5.xcf
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v5-mandala-valueprop.xcf
+./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v4.xcf
+./GIFs/Psychedelic GIFs/q7-voronoi (psychedelic GIF)/editing/q7-v13.xcf
+./GIFs/Psychedelic GIFs/q7-voronoi (psychedelic GIF)/editing/q7-v12.xcf
+./GIFs/Psychedelic GIFs/q5-v4_hueloop (psychedelic GIF)/hue loop/q5-v4-hueloop.xcf
+
+find -type f -size +40M -delete
