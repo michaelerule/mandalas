@@ -21,27 +21,20 @@ def previewname(f):
 #Generate some sort of preview HTLM document
 
 template = '''
-<html>
-<head></head>
-<body>
 <table>
 <tr></tr>
 <td></td>
 %(IMAGETABLE)s
 </table>
-</body>
-</html>
 '''
 
-imgtemplate = '''
-<td>
+imgtemplate = '''<td>
 <center>
 <a href="%(link)s">
-<img src="%(f)s" height="%(PRESIZE)d">
+<img src="%(f)s" height="%(PRESIZE)d" width="%(PRESIZE)d">
 </a>
 </center>
-</td>
-'''
+</td>'''
 
 # Get all files that have a valid preview image
 previews = [PREVIEWDIR+f for f in os.listdir(PREVIEWDIR) if '.png' in f]
@@ -65,7 +58,7 @@ for link,f in allpreviews:
     IMAGETABLE += imagetag
     nincol += 1
     if nincol>PRECOLS:
-        IMAGETABLE += '</tr>\n<tr>'
+        IMAGETABLE += '</tr><tr>'
         nincol=0
 # Close table environment
 while nincol<PRECOLS:
@@ -75,8 +68,12 @@ IMAGETABLE+='</tr>'
 
 # Write out HTML file
 HTML = template%globals()
+
+# Lazy hacks
+HTML = HTML.replace('../','./')
+
 print(HTML)
-htmloutfile = './index.html'
+htmloutfile = './table.html'
 with open(htmloutfile,'w') as f:
     f.write(HTML)
 
