@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mandalas.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="77.200891"
+     inkscape:cy="525.0619"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/mrule/Desktop/Github/quasicrystal mandala renderings/Tawuse Melek/q10-6-peacock-symmetrize-2-Tawûsê Melek-coloradjusted.png"
+       xlink:href="Github/quasicrystal mandala renderings/Tawuse Melek/q10-6-peacock-symmetrize-2-Tawûsê Melek-coloradjusted.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="318.66666"
+       height="318.66666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4155"
+       x="30.181095"
+       y="-708.71393" />
+    <image
+       sodipodi:absref="/home/mrule/Desktop/Github/quasicrystal mandala renderings/8fold/q8v-symmetrized-v3-recolored.png"
+       xlink:href="Github/quasicrystal mandala renderings/8fold/q8v-symmetrized-v3-recolored.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="318.66666"
+       height="318.66666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4166"
+       x="30.181095"
+       y="-354.04727" />
+    <image
+       sodipodi:absref="/home/mrule/Desktop/Github/quasicrystal mandala renderings/q12-3-symm-color-rosette-mosaic.png"
+       xlink:href="Github/quasicrystal mandala renderings/q12-3-symm-color-rosette-mosaic.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="318.66666"
+       height="318.66666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4144"
+       x="703.51447"
+       y="-708.71393" />
+    <image
+       sodipodi:absref="/home/mrule/Desktop/Github/quasicrystal mandala renderings/9fold/p9-sine-v7-recolored.png"
+       xlink:href="Github/quasicrystal mandala renderings/9fold/p9-sine-v7-recolored.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="318.66666"
+       height="318.66666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4177"
+       x="703.51447"
+       y="-354.04727" />
+    <image
+       sodipodi:absref="/home/mrule/Desktop/Github/quasicrystal mandala renderings/for printing/Test0-q7-v12-black-v1-nice-v6-symmetrized.xcf.png"
+       xlink:href="Github/quasicrystal mandala renderings/for printing/Test0-q7-v12-black-v1-nice-v6-symmetrized.xcf.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="318.66666"
+       height="318.66666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4188"
+       x="366.84778"
+       y="-708.71393" />
+    <image
+       sodipodi:absref="/home/mrule/Desktop/Github/quasicrystal mandala renderings/png/quasi_6_fill_blue_gold-symmetrized.png"
+       xlink:href="Github/quasicrystal mandala renderings/png/quasi_6_fill_blue_gold-symmetrized.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       width="318.66666"
+       height="318.66666"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4199"
+       x="366.84778"
+       y="-354.04727" />
+  </g>
+</svg>
