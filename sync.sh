@@ -25,6 +25,7 @@ git add -u
 
 # hopefully removes everything that shouldn't be being tracked as per
 # .gitignore. Possibly dangerous. 
+echo "Untracking files matching .gitignore..."
 cat .gitignore | awk "/^[.\*]/" | sed 's/"/"\\""/g;s/.*/"&"/' |  xargs -E '' -I{} git rm -rf --cached {}
 
 echo "Committing..."
