@@ -28,12 +28,12 @@ def previewname(f):
     outpath  = PREVIEWDIR+savename
     return outpath
 
-# Build scaled-down previews of al PNG files
+# Build scaled-down previews of all PNG files
 for f in files:
     outpath = previewname(f)
     if not os.path.isfile(outpath):
         print(outpath)
-        cmd = 'convert -resize x600 "%s" "%s"'%(f,outpath)
+        cmd = 'convert -resize x300 "%s" "%s"'%(f,outpath)
         os.system(cmd)
         
 #Generate some sort of preview HTLM document
