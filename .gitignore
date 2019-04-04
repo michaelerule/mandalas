@@ -4,52 +4,29 @@
 ./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow.xcf
 ./Wave/6-fold wave-based/editing/quasi-6-anisotropic-colored-2-noised.xcf.png
 ./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow_v2.xcf
-./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow_v2.xcf.png
-./Wave/6-fold wave-based/editing/quasi-6-anisotropic-dayglow.xcf.png
 ./Wave/6-fold wave-based/editing/Test0-6-lattice-B.xcf
 ./Wave/6-fold wave-based/editing/quasi-6-anisotropic-colored-2-noised.xcf
-./Rhomboid/unfinished/8-fold bisected (incomplete)/q8_giant_bisect_larger_fine.xcf
 ./Rhomboid/completed/8-fold subdivided rhomboid (the universe)/editing/index_8fold_edges_coloring_B5_symm.xcf
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1.xcf.png
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4b.xcf.png
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines_greyedout_dilated.xcf
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines.xcf.png
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines.xcf
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4b.xcf
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines_greyedout.xcf.png
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1.xcf
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate6.xcf.png
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4c_branch1_nolines_greyedout.xcf
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate5.xcf.png
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate6.xcf
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4.xcf
 ./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate5.xcf
-./Rhomboid/completed/7-fold subdivided rhomboid (intense latin)/editing/rotate4.xcf.png
 ./miscellaneous/for printing/mandalas.pdf
-./.git/objects/cb/bb2bc83179cb2bc410c5db84d811ad9fe6eea8
 ./.git/objects/78/14abdf1121c593360668c26697247ab944cf7e
-./.git/objects/5a/8c2ba3864ae788be4526572dc4bbe58ae5f714
 ./.git/objects/8f/c0785eb398b83c9e0b9eb2a0525ee1dfb87cd2
 ./.git/objects/f9/5e6b3bf513c76f29293714cf12dde633451191
 ./.git/objects/e0/7c2f51ed420e42388b24c88435cd00b22b5bed
 ./.git/objects/ea/fc110e614eb637cf0f34579b7bd2397ddf5880
 ./.git/objects/db/5b598919a63059a62844221a5a1f6b5dc88bbe
-./.git/objects/3f/d661575b220ad02aaa919830cd1dc5df6cc504
 ./.git/objects/c9/bcadffc28b27edb1cf8bd8c42bbb177427b4c0
-./.git/objects/00/9b7db79ce5dafbc834048cb1a7902b3bddbbb3
-./.git/objects/c4/66423dafbc4d5b2d9ab42446d20bf8838b9fd9
 ./.git/objects/1e/084962f8a6ccfd1263a9e06b2d2cdeb114d3a6
 ./.git/objects/7b/2cbb684d26c5d4e8c6d8c326eb22515cbda540
 ./.git/objects/1c/14a735473da2f0fcc5243bb877a282322891e9
-./.git/objects/12/4bb69ce1995e8f629c275a87f75035a855506e
-./.git/objects/9c/163aa10e8fc724a7a8189d44a1db4fdb118fd7
 ./.git/objects/52/2e1d5f9ff7f040001218bdc756fb212e1c1fdd
-./.git/objects/75/0ab72fc9115baf18854a5aa76559dc982d7c12
-./.git/objects/4c/e96d6e698b36dc86eae538424f2b1baa8723ee
 ./.git/objects/a7/e50f936c977c5afd3c3597d892adbb5a27decc
-./.git/objects/a7/20b92885c680b07be8534755c73b2c84888fad
-./.git/objects/a8/012e136b1cb9df92ad7f74f7d45c88e9dde126
-./.git/objects/b4/3f664f27f466d02c3c80a9a5b0dfd27fb0c009
 ./.git/objects/89/18fc79002ab5017716d62f000eee0d6953b65b
 ./.git/objects/16/fdb54064d7779dd856781753cbe068947e004a
 ./.git/objects/ca/d9e664558d6d39a3a8a185b16100e31786283f
@@ -61,8 +38,6 @@
 ./.git/objects/0c/070748dc37543013093e246a6dbf5896358667
 ./.git/objects/83/2bbb7c87cd90eb1a06a357c294e7c18dc77bf0
 ./.git/objects/76/ee98e0032ce3b1a420cda1bb7892d0c9258ba8
-./.git/objects/76/3997502a3fa196f5b6f24faba6736c24b92fbc
-./.git/objects/1d/72ff507e6a9f076b821e2a26e11ead5b3277e8
 ./.git/objects/f5/c9b590668ed012b0eeb8d28eaa5c789f313a40
 ./Moasic/completed/9-fold mosaic (peacock)/p9-sine-v5.xcf
 ./Moasic/completed/12-fold mosaic (unpleasant colors)/q12-3-symm-color-B-RGB.xcf
@@ -81,6 +56,4 @@
 ./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v4.xcf
 ./Moasic/completed/seraphim (Byzantine moasic with 9-fold peacock overlay)/seraphim-v5-mandala-valueprop.xcf.png
 ./GIFs/Psychedelic GIFs/q7-voronoi (psychedelic GIF)/editing/q7-v13.xcf
-./GIFs/Psychedelic GIFs/q7-voronoi (psychedelic GIF)/editing/q7-v12.xcf
-./GIFs/Psychedelic GIFs/q5-v4_hueloop (psychedelic GIF)/hue loop/q5-v4-hueloop.xcf
 *~

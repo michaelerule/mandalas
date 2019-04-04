@@ -4,7 +4,7 @@ shopt -s extglob
 
 ./maketree.py
 
-find -type f -size +40M > ./.gitignore
+find -type f -size +50M > ./.gitignore
 
 echo "*~" >>  ./.gitignore
 
