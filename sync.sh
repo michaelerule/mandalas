@@ -2,6 +2,7 @@
 
 shopt -s extglob
 
+./generate_previews.py
 ./maketree.py
 
 find -type f -size +50M > ./.gitignore
